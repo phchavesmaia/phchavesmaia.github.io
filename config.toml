@@ -8,7 +8,7 @@ baseURL = "https://phchavesmaia.github.io/"
 
 [author]
 name = "Pedro H. Chaves Maia"
-homepage = "https://www.phchavesmaia.com"
+homepage = "https://phchavesmaia.github.io/"
 
 [params]
 shortbio = "Ph.D. candidate in Economics, FGV/EPGE"
