@@ -2,26 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pedro H. Chaves Maia</title>
-    <link>https://phchavesmaia.github.io/mysite/</link>
+    <link>https://phchavesmaia.github.io/</link>
     <description>Recent content on Pedro H. Chaves Maia</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://phchavesmaia.github.io/mysite/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://phchavesmaia.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://phchavesmaia.github.io/mysite/about/</link>
+      <title>About me</title>
+      <link>https://phchavesmaia.github.io/about/</link>
       <pubDate>Tue, 09 May 2023 22:27:45 -0300</pubDate>
       
-      <guid>https://phchavesmaia.github.io/mysite/about/</guid>
+      <guid>https://phchavesmaia.github.io/about/</guid>
       <description>I am a Ph.D. candidate in Economics at FGV/EPGE Brazilian School of Economics and Finance. My research interests include urban and development economics, transportation economics, environmental economics and climate change adaptation.
 You can reach me at: maia.pedro@fgv.edu.br</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phchavesmaia.github.io/mysite/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phchavesmaia.github.io/mysite/research/</guid>
-      <description></description>
     </item>
     
   </channel>

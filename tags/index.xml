@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pedro H. Chaves Maia</title>
-    <link>https://phchavesmaia.github.io/mysite/tags/</link>
+    <link>https://phchavesmaia.github.io/tags/</link>
     <description>Recent content in Tags on Pedro H. Chaves Maia</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://phchavesmaia.github.io/mysite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://phchavesmaia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

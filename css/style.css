@@ -303,7 +303,7 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a {
-  color: #267CB9;
+  color: #b3053a /* #a11640 */;
   text-decoration: none; }
 
 a:hover, a:focus {
@@ -319,7 +319,7 @@ a:hover small {
   color: #777; }
 
 .wrapper {
-  width: 860px;
+  width: 1070px;
   margin: 0 auto; }
 
 blockquote {
@@ -359,7 +359,7 @@ img {
   max-width: 100%; }
 
 header {
-  width: 270px;
+  width: 305px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased; }
@@ -371,7 +371,7 @@ header ul {
   background: #f4f4f4;
   border-radius: 5px;
   border: 1px solid #e0e0e0;
-  width: 270px; }
+  width: 305px; }
 
 header li {
   width: 89px;
@@ -415,7 +415,7 @@ header ul a strong {
   color: #222; }
 
 section {
-  width: 500px;
+  width: 700px;
   float: right;
   padding-bottom: 50px; }
 
