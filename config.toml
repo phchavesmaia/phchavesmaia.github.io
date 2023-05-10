@@ -1,0 +1,26 @@
+relativeURLs = true
+title = "Pedro H. Chaves Maia"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+baseURL = "https://phchavesmaia.github.io/"
+
+
+[author]
+name = "Pedro H. Chaves Maia"
+homepage = "https://www.pedrohcmaia.com"
+
+[params]
+shortbio = "Ph.D. candidate in Economics, FGV/EPGE"
+email = "maia.pedro@fgv.edu.br"
+emailLink = "mailto:maia.pedro@fgv.edu.br"
+ORCID = "0009-0003-4869-3352"
+SSRN = "5584452"
+GitHub = "phchavesmaia"
+
+[markup]
+  [markup.highlight]
+    style = "solarized-light"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

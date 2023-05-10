@@ -1,0 +1,7 @@
+{{ define "main" -}}
+<h2 id="bio">Research</h2>
+{{ with .GetPage "/research.md" }}
+{{ .Content }}
+{{ end }}
+
+{{- end }}
